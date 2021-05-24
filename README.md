@@ -12,6 +12,6 @@ For each battle (set of challenges) I have completed there is a directory of nam
 
 Inside those, for each challenge I have completed there is:
 
-* High-score version (minified): <target no.>_<target name>_hi.html
+* High-score version (minified): `<target no.>_<target name>_hi.html`
 
-* High-score version (pretty-print): <target no.>_<target name>_pretty.html
+* High-score version (pretty-print): `<target no.>_<target name>_pretty.html`
