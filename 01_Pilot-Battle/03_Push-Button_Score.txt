@@ -1,0 +1,3 @@
+score:639.09
+match:100%
+chars:244
