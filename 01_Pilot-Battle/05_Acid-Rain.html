@@ -1,0 +1,34 @@
+<dt>
+<style>
+  body {
+    background: #0b2429;
+    display: grid;
+    place-items: center;
+    height: 284;
+    position: relative
+  }
+
+  dt,
+  dt:before,
+  dt:after {
+    width: 120;
+    height: 120;
+    border-radius: 50% 0 50% 50%;
+    background: #f3ac3c;
+    content: '';
+    position: absolute
+  }
+
+  dt:before {
+    transform: translate(-50%, 50%)
+  }
+
+  dt:after {
+    transform: translate(50%, -50%);
+    z-index: -1;
+    border-radius: 50%
+  }
+
+  dt {
+    background: #998235
+  }
