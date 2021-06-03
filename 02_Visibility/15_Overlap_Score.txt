@@ -1,3 +1,3 @@
-score:654.05
+score:669.92
 match:100%
-chars:210
+chars:183
